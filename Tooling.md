@@ -1,0 +1,15 @@
+### Online IDE
+ - https://vyper.online/
+
+### Syntax / IDE Integration
+- vim 
+  - https://github.com/jacqueswww/vim-vyper
+- Visual Code 
+  - https://github.com/p-/vscode-vyper
+
+### Frameworks
+ - Populus
+   - https://github.com/ethereum/populus
+   - http://populus.readthedocs.io/en/latest/viper_support.html
+ - Embark
+   - https://embark.status.im/
