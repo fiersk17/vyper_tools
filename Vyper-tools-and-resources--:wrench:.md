@@ -1,3 +1,4 @@
+#  Vyper tools  
 ### Online IDE
  - https://vyper.online/
 
@@ -13,3 +14,6 @@
    - http://populus.readthedocs.io/en/latest/viper_support.html
  - Embark
    - https://embark.status.im/
+
+### Other
+ - Pytest ethereum plugin https://github.com/fubuloubu/pytest-ethereum
