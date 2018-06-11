@@ -15,7 +15,7 @@
    - http://populus.readthedocs.io/en/latest/viper_support.html
  - Embark
    - https://embark.status.im/
- - Truffle (compatible 
+ - Truffle (compatible)
    - Truper https://www.npmjs.com/package/truper
 ### Other
  - Pytest ethereum plugin https://github.com/fubuloubu/pytest-ethereum
