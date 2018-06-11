@@ -17,6 +17,7 @@
    - https://embark.status.im/
  - Truffle (compatible)
    - Truper https://www.npmjs.com/package/truper
+   - VyperWeb3Deploy https://github.com/gakonst/VyperWeb3Deploy
 ### Other
  - Pytest ethereum plugin https://github.com/fubuloubu/pytest-ethereum
 
