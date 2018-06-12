@@ -18,6 +18,7 @@
  - Truffle (compatible)
    - Truper https://www.npmjs.com/package/truper
    - VyperWeb3Deploy https://github.com/gakonst/VyperWeb3Deploy
+   - Deploy to gnache, python script https://github.com/ltfschoen/vyper-test/blob/master/scripts/main.py
 ### Other
  - Pytest ethereum plugin https://github.com/fubuloubu/pytest-ethereum
 
