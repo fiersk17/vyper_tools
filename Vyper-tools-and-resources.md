@@ -26,3 +26,4 @@
 
  - Official Documentation https://vyper.readthedocs.io/
  - Additional notes install on MacOS https://www.codementor.io/mandarvaze/how-to-install-vyper-using-pyenv-and-virtualenv-on-macos-jz2ghksd4
+ 
