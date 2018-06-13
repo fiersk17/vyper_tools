@@ -8,6 +8,8 @@
   - https://github.com/jacqueswww/vim-vyper
 - Visual Code 
   - https://github.com/p-/vscode-vyper
+- Sublime
+  _ https://github.com/jacqueswww/sublime-vyper
 
 ### Frameworks
  - Populus
