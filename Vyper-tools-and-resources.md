@@ -10,6 +10,8 @@
   - https://github.com/p-/vscode-vyper
 - Sublime
   - https://github.com/jacqueswww/sublime-vyper
+- Atom
+  - https://github.com/wschwab/language-vyper
 
 ### Frameworks
  - Populus
