@@ -12,7 +12,8 @@
   - https://github.com/jacqueswww/sublime-vyper
 - Atom
   - https://github.com/wschwab/language-vyper
-
+- emacs
+  - https://github.com/ralexstokes/vyper-mode
 ### Frameworks
  - Populus
    - https://github.com/ethereum/populus
