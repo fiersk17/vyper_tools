@@ -33,3 +33,4 @@
  - Additional notes install on MacOS https://www.codementor.io/mandarvaze/how-to-install-vyper-using-pyenv-and-virtualenv-on-macos-jz2ghksd4
  - ERC721 Vyper Implementation of Non Fungabile Tokens https://github.com/maurelian/erc721-vyper
  - Understanding Vyper - https://blockgeeks.com/guides/understanding-vyper/
+ - A day with Vyper - https://medium.com/coinmonks/a-day-with-vyper-6a0a5861f24a
