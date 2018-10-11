@@ -14,6 +14,8 @@
   - https://github.com/wschwab/language-vyper
 - emacs
   - https://github.com/ralexstokes/vyper-mode
+- cryptofex
+  - https://cryptofex.io/download/
 ### Frameworks
  - Populus
    - https://github.com/ethereum/populus
