@@ -1,8 +1,8 @@
 #  Vyper tools :wrench:
 
 ### Online IDE
- - https://vyper.online/
  - https://remix.ethereum.org/ or https://remix.vyper.live/ (Uses vyper-remix plugin, click on Vyper under Settings/Plugin tab).
+ - https://vyper.online/
 
 ### Syntax / IDE Integration
 - vim 
