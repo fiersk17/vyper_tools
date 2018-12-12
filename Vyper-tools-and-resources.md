@@ -2,7 +2,7 @@
 
 ### Online IDE
  - https://vyper.online/
- - https://remix.vyper.live/ (Uses vyper-remix plugin, click on Vyper under Settings/Plugin tab).
+ - https://remix.ethereum.org/ or https://remix.vyper.live/ (Uses vyper-remix plugin, click on Vyper under Settings/Plugin tab).
 
 ### Syntax / IDE Integration
 - vim 
