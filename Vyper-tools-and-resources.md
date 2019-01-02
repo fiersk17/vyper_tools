@@ -3,6 +3,7 @@
 ### Online IDE
  - https://remix.ethereum.org/ or https://remix.vyper.live/ (Uses vyper-remix plugin, click on Vyper under Settings/Plugin tab).
  - https://vyper.online/
+ - Vyper in your browser (no external calls) https://jacqueswww.github.io/vyper-in-browser/ or https://github.com/jacqueswww/vyper-in-browser
 
 ### Syntax / IDE Integration
 - vim 
