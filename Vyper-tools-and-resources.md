@@ -32,11 +32,19 @@
  - Pytest ethereum plugin https://github.com/fubuloubu/pytest-ethereum
 
 #  Tutorials / Articles :book: :bookmark: 
- - Official Documentation https://vyper.readthedocs.io/
- - Additional notes install on MacOS https://www.codementor.io/mandarvaze/how-to-install-vyper-using-pyenv-and-virtualenv-on-macos-jz2ghksd4
- - ERC721 Vyper Implementation of Non Fungabile Tokens https://github.com/maurelian/erc721-vyper
- - Understanding Vyper - https://blockgeeks.com/guides/understanding-vyper/
- - A day with Vyper - https://medium.com/coinmonks/a-day-with-vyper-6a0a5861f24a
- - Chainshot Introduction to Vyper - https://www.chainshot.com/lessons/5bb2c8ded9f99705a60c62d3/
- - Chainshot Challenge - https://www.chainshot.com/challenges/5bbe29521cf3723ee7b20a95/
- - How I learned to stop worrying and love Vyper - https://medium.com/@daniel.jozsef/why-i-learned-to-stop-worrying-and-love-viper-part-1-c6ba7bda02f5 
+ - Official Documentation  
+    - https://vyper.readthedocs.io/
+ - Additional notes install on MacOS  
+    - https://www.codementor.io/mandarvaze/how-to-install-vyper-using-pyenv-and-virtualenv-on-macos-jz2ghksd4
+ - ERC721 Vyper Implementation of Non Fungabile Tokens
+    - https://github.com/maurelian/erc721-vyper
+ - Understanding Vyper
+   - https://blockgeeks.com/guides/understanding-vyper/
+ - A day with Vyper
+   - https://medium.com/coinmonks/a-day-with-vyper-6a0a5861f24a
+ - Chainshot Introduction to Vyper
+   - https://www.chainshot.com/lessons/5bb2c8ded9f99705a60c62d3/
+ - Chainshot Challenge
+   - https://www.chainshot.com/challenges/5bbe29521cf3723ee7b20a95/
+ - How I learned to stop worrying and love Vyper
+   - https://medium.com/@daniel.jozsef/why-i-learned-to-stop-worrying-and-love-viper-part-1-c6ba7bda02f5 
