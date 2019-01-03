@@ -39,3 +39,4 @@
  - A day with Vyper - https://medium.com/coinmonks/a-day-with-vyper-6a0a5861f24a
  - Chainshot Introduction to Vyper - https://www.chainshot.com/lessons/5bb2c8ded9f99705a60c62d3/
  - Chainshot Challenge - https://www.chainshot.com/challenges/5bbe29521cf3723ee7b20a95/
+ - How I learned to stop worrying and love Vyper - https://medium.com/@daniel.jozsef/why-i-learned-to-stop-worrying-and-love-viper-part-1-c6ba7bda02f5 
