@@ -51,9 +51,8 @@
 
 # Honourable Project Mentions
 - Uniswap Decentralised Exchange
-https://uniswap.exchange/
+  - https://uniswap.exchange/
 
 - Multisend
-https://multisend.co/
-
+  - https://multisend.co/
 
