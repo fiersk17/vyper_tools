@@ -48,3 +48,12 @@
    - https://www.chainshot.com/challenges/5bbe29521cf3723ee7b20a95/
  - How I learned to stop worrying and love Vyper
    - https://medium.com/@daniel.jozsef/why-i-learned-to-stop-worrying-and-love-viper-part-1-c6ba7bda02f5 
+
+### Honourable Project Mentions
+- Uniswap Decentralised Exchange
+https://uniswap.exchange/
+
+- Multisend
+https://multisend.co/
+
+
