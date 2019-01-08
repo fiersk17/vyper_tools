@@ -49,7 +49,7 @@
  - How I learned to stop worrying and love Vyper
    - https://medium.com/@daniel.jozsef/why-i-learned-to-stop-worrying-and-love-viper-part-1-c6ba7bda02f5 
 
-### Honourable Project Mentions
+# Honourable Project Mentions
 - Uniswap Decentralised Exchange
 https://uniswap.exchange/
 
