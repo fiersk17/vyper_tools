@@ -47,7 +47,10 @@
  - Chainshot Challenge
    - https://www.chainshot.com/challenges/5bbe29521cf3723ee7b20a95/
  - How I learned to stop worrying and love Vyper
-   - https://medium.com/@daniel.jozsef/why-i-learned-to-stop-worrying-and-love-viper-part-1-c6ba7bda02f5 
+   - https://medium.com/@daniel.jozsef/why-i-learned-to-stop-worrying-and-love-viper-part-1-c6ba7bda02f5
+ - Blockgeeks Vyper Video Tutorial
+   - Part 1 https://www.youtube.com/watch?v=sviTkGp6D_Q
+   - Part 2 https://www.youtube.com/watch?v=bd7WbMM6jGM
 
 # Honourable Project Mentions
 - Uniswap Decentralised Exchange
