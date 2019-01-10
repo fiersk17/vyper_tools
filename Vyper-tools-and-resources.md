@@ -49,6 +49,7 @@
  - How I learned to stop worrying and love Vyper
    - https://medium.com/@daniel.jozsef/why-i-learned-to-stop-worrying-and-love-viper-part-1-c6ba7bda02f5
  - Blockgeeks Vyper Video Tutorial
+   - Intro to Vyper https://www.youtube.com/watch?v=rqfM6cxXHB8
    - Part 1 https://www.youtube.com/watch?v=sviTkGp6D_Q
    - Part 2 https://www.youtube.com/watch?v=bd7WbMM6jGM
 
