@@ -30,6 +30,7 @@
    - Deploy to gnache, python script https://github.com/ltfschoen/vyper-test/blob/master/scripts/main.py
 ### Other
  - Pytest ethereum plugin https://github.com/fubuloubu/pytest-ethereum
+ - SmartCheck - linter and automated security checker https://tool.smartdec.net
 
 #  Tutorials / Articles :book: :bookmark: 
  - Official Documentation  
