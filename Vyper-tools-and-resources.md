@@ -1,4 +1,4 @@
-#  Vyper tools :wrench:
+#  Vyper tools :wrench: :snake: 
 
 ### Online IDE
  - https://remix.ethereum.org/ or https://remix.vyper.live/ (Uses vyper-remix plugin, click on Vyper under Settings/Plugin tab).
@@ -47,6 +47,8 @@
    - https://www.chainshot.com/lessons/5bb2c8ded9f99705a60c62d3/
  - Chainshot Challenge
    - https://www.chainshot.com/challenges/5bbe29521cf3723ee7b20a95/
+ -  Add your own Chainshot Challenge:
+   - https://github.com/Dan-Nolan/Vyper-Content
  - How I learned to stop worrying and love Vyper
    - https://medium.com/@daniel.jozsef/why-i-learned-to-stop-worrying-and-love-viper-part-1-c6ba7bda02f5
  - Blockgeeks Vyper Video Tutorial
