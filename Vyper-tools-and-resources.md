@@ -55,7 +55,7 @@
    - Intro to Vyper https://www.youtube.com/watch?v=rqfM6cxXHB8
    - Part 1 https://www.youtube.com/watch?v=sviTkGp6D_Q
    - Part 2 https://www.youtube.com/watch?v=bd7WbMM6jGM
-
+ - A general outline of Ethereum's upcoming contracts language, Vyper. Purpose, design philosophy, features, adoption, research and development. Vyper https://www.bitrates.com/news/p/vyper-ethereums-contract-oriented-python-like-scripting-language-for-the-evm
 # Honourable Project Mentions
 - Uniswap Decentralised Exchange
   - https://uniswap.info/
