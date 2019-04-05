@@ -10,6 +10,7 @@
 - vim 
   - https://github.com/jacqueswww/vim-vyper
 - Visual Code 
+  - https://github.com/tintinweb/vscode-vyper (Also in extension store)
   - https://github.com/p-/vscode-vyper
 - Sublime
   - https://github.com/jacqueswww/sublime-vyper
