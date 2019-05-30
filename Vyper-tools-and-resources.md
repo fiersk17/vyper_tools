@@ -61,6 +61,10 @@
    - Part 2 https://www.youtube.com/watch?v=bd7WbMM6jGM
  - A general outline of Ethereum's upcoming contracts language, Vyper. Purpose, design philosophy, features, adoption, research and development. 
    - https://www.bitrates.com/news/p/vyper-ethereums-contract-oriented-python-like-scripting-language-for-the-evm
+- Vyper: The Simple Secure Smart Contract Language
+  - https://medium.com/@cseberino/vyper-the-secure-smart-contract-language-3d0a24a85c27
+- Ethereum ditching Solidity for Vyper?
+  - https://medium.com/swlh/ethereum-ditching-solidity-for-vyper-6db70fd7754
 
 # Honourable Project Mentions
 - Uniswap Decentralised Exchange
@@ -69,7 +73,9 @@
 
 - Multisend
   - https://multisend.co/
-
+- Lendroid
+  - https://github.com/lendroidproject/protocol.1.0
+  - https://lendroid.com/
 # Books
  - Mastering Ethereum Chapter 8 https://www.oreilly.com/library/view/mastering-ethereum/9781491971932/ | https://github.com/ethereumbook/ethereumbook/blob/develop/08smart-contracts-vyper.asciidoc
  - Hands-On Blockchain for Python Developers  https://www.packtpub.com/big-data-and-business-intelligence/hands-blockchain-python-developers
