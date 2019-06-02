@@ -79,6 +79,9 @@
 - GunClear
   - https://github.com/GunClear/PlasmaRifle
   - https://gunclear.io/
+- Computable Protocol
+  - https://github.com/computablelabs/computable
+  - https://github.com/computablelabs/goest/tree/master/contracts
 # Books
  - Mastering Ethereum Chapter 8 https://www.oreilly.com/library/view/mastering-ethereum/9781491971932/ | https://github.com/ethereumbook/ethereumbook/blob/develop/08smart-contracts-vyper.asciidoc
  - Hands-On Blockchain for Python Developers  https://www.packtpub.com/big-data-and-business-intelligence/hands-blockchain-python-developers
