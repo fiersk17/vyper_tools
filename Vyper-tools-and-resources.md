@@ -35,6 +35,7 @@
 ### Other
  - Pytest ethereum plugin https://github.com/fubuloubu/pytest-ethereum
  - SmartCheck - linter and automated security checker https://tool.smartdec.net
+- Crytic Smart Contract Compiling library https://github.com/crytic/crytic-compile
 
 #  Tutorials / Articles :book: :bookmark: 
  - Official Documentation  
