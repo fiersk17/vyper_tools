@@ -23,7 +23,7 @@
 - cryptofex
   - https://cryptofex.io/download/
 ### Frameworks
- - Populus
+ - Populus (Deprecated)
    - https://github.com/ethereum/populus
    - http://populus.readthedocs.io/en/latest/viper_support.html
  - Embark
@@ -35,7 +35,7 @@
 ### Other
  - Pytest ethereum plugin https://github.com/fubuloubu/pytest-ethereum
  - SmartCheck - linter and automated security checker https://tool.smartdec.net
-- Crytic Smart Contract Compiling library https://github.com/crytic/crytic-compile
+- Manticore / Crytic Compiling library https://github.com/crytic/crytic-compile / https://github.com/trailofbits/manticore/blob/master/README.md
 
 #  Tutorials / Articles :book: :bookmark: 
  - Official Documentation  
